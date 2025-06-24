@@ -98,3 +98,191 @@
 
 24:06:2025	18:39:23	521faac4-94cb-4a9a-b7e1-642392cb15c4	GET	undefined	/new-page.html
 
+24:06:2025	21:53:22	a980615c-08aa-418f-ba9a-21862d3888c9	GET	undefined	/register
+
+24:06:2025	21:54:06	5aaadeab-2d37-4091-999b-bfa4b3dd4cc9	GET	undefined	/register
+
+24:06:2025	21:54:48	f71de489-8844-4d60-84c7-bc2584c96f86	GET	undefined	/register
+
+24:06:2025	21:55:22	625de343-f69e-4adc-8153-edf5c3e58d62	GET	undefined	/register
+
+24:06:2025	21:58:55	49f9f093-abc2-4d72-9ebf-d447a892da7d	POST	undefined	/register
+
+24:06:2025	22:05:19	88906c8e-c6b5-426d-9f06-16046dead094	POST	undefined	/register
+
+24:06:2025	22:05:45	1bf7c9af-fe9c-4134-bc23-5c9a5c126463	POST	undefined	/auth
+
+24:06:2025	22:07:50	f72e6b3a-394a-42b4-806c-4b3b8f42956a	POST	undefined	/auth
+
+24:06:2025	22:08:51	129b4511-f66e-4153-a2df-74a3c26bf588	POST	undefined	/api/employee
+
+24:06:2025	22:29:02	d7104c8a-c0a0-4e9f-b454-49210c4d3d64	POST	undefined	/register
+
+24:06:2025	22:29:18	e1e202bb-6993-463d-aa35-7e798e1dc3c3	GET	undefined	/register
+
+24:06:2025	22:29:24	8a89a52b-3fed-4228-a828-daee3f3b8e17	POST	undefined	/register
+
+24:06:2025	22:30:43	775805b7-83af-43b4-93c4-17cf54df873f	POST	undefined	/register
+
+24:06:2025	22:31:49	3af8ba0f-602f-40bd-a100-56c64b244e41	POST	undefined	/auth
+
+24:06:2025	22:32:25	d958878b-a85b-4c4b-81db-ad42e422ab4f	GET	undefined	/api/employee
+
+24:06:2025	22:32:39	c4bab32d-06b1-4cf4-9c8a-4560ff0a3cf4	GET	undefined	/api/employee
+
+24:06:2025	22:33:04	7b1fcd3c-1c28-4abd-9756-eaf3cd465b98	GET	undefined	/api/employee
+
+24:06:2025	22:35:38	28cbb757-ef30-4070-b4dd-3189b4774683	POST	undefined	/api/employee
+
+24:06:2025	22:35:44	ff07c5d1-12cc-474b-bede-dc180ee4022a	POST	undefined	/api/employee
+
+24:06:2025	22:35:55	5cffdcfd-2e71-4a4f-88bd-28183dcc35d4	PUT	undefined	/api/employee
+
+24:06:2025	22:38:30	dbcce85f-337d-4387-9199-6b82e02c0918	POST	undefined	/api/employee
+
+24:06:2025	22:38:52	468e71c7-32a3-4ef0-982c-d3c1def7d171	POST	undefined	/api/employee
+
+24:06:2025	22:39:26	cc3ec7bb-27bf-4cb9-8aee-a9c884d1181e	POST	undefined	/api/employee
+
+24:06:2025	22:39:54	af54e9c3-8374-4366-91b4-9cacda3113ff	PUT	undefined	/auth
+
+24:06:2025	22:40:02	9b0072b1-f1bf-48e1-b7a3-f3c2c9baa4cd	GET	undefined	/auth
+
+24:06:2025	22:40:27	935e583a-faa3-4b2f-be9b-715cab7e4cd0	GET	undefined	/api/employee
+
+24:06:2025	22:40:35	25382f7c-5821-4e64-8de8-fd58b1e0af5b	GET	undefined	/api/employee
+
+24:06:2025	22:40:39	ed5f78b9-156d-48c3-85d7-74cf3a538ad6	POST	undefined	/api/employee
+
+24:06:2025	22:41:31	df474fb0-da5d-4da7-b7b8-4e2e18b3de84	POST	undefined	/register
+
+24:06:2025	22:42:18	1c16d83e-862c-4259-a18a-4ef2dc18b172	POST	undefined	/register
+
+24:06:2025	22:42:31	0cd88453-cead-4934-8c50-c374f0a0b039	POST	undefined	/register
+
+24:06:2025	22:42:47	ce231f79-f0a7-4b98-8b6f-9b5565dec933	POST	undefined	/auth
+
+24:06:2025	22:43:37	9c958ab2-10de-438b-b5f5-08b479f36479	POST	undefined	/auth
+
+24:06:2025	22:44:22	abd146d1-108b-406f-acb5-a2fe9c9c9bf1	POST	undefined	/api/employee
+
+24:06:2025	22:44:27	3a35a8d2-2be7-47e3-9bbc-0d7f31595570	POST	undefined	/api/employee
+
+24:06:2025	22:44:39	b86e4a8b-8016-4a61-81a4-6396896e47f0	GET	undefined	/api/employee
+
+24:06:2025	22:44:51	aa61f2ef-5af3-4571-b21a-8565ce833ecc	PUT	undefined	/api/employee
+
+24:06:2025	22:45:01	222179fe-f9c8-49ae-9809-1b08f5095789	PUT	undefined	/api/auth
+
+24:06:2025	22:45:57	8de391d9-a742-45a5-a517-8d75391627dd	PUT	undefined	/api/auth
+
+24:06:2025	22:46:18	1b5c5879-ea9e-4c37-ac71-b842e879d138	PUT	undefined	/auth
+
+24:06:2025	22:46:25	4668e273-690a-4789-8e30-e44245ead9d8	PUT	undefined	/auth
+
+24:06:2025	22:46:41	cf67bc83-7bc5-4beb-9402-710eb73ca3fe	POST	undefined	/auth
+
+24:06:2025	22:47:17	c3be50f8-d283-448e-9ee7-5472adf721dc	POST	undefined	/auth
+
+24:06:2025	22:58:37	0a7f2ba3-234d-4ab6-bb27-f7275aa9f7c8	PUT	undefined	/api/employee
+
+24:06:2025	22:58:46	e813563e-2a55-4db0-9a01-81c9dce9bcf2	POST	undefined	/api/employee
+
+24:06:2025	22:58:55	c655c4ed-e66a-41d7-8bcf-7f55c9e2d408	POST	undefined	/api/employee
+
+24:06:2025	22:59:15	bb5ae058-ec41-4a25-b12b-3be1952b0d0e	GET	undefined	/api/employee
+
+24:06:2025	22:59:17	2216e9fb-1042-4bc0-a896-1be59deb64a0	GET	undefined	/api/employee
+
+24:06:2025	22:59:23	9c02346c-eb28-4b85-9e91-7aba812d5b13	GET	undefined	/api/employee
+
+24:06:2025	22:59:30	ecd7ed21-36b5-4697-a57d-da1e4aa7b7d7	GET	undefined	/api/employee
+
+24:06:2025	23:01:13	2e301513-8258-4808-810a-7bc7c49aa35d	GET	undefined	/api/employee
+
+24:06:2025	23:01:30	4df29002-8664-4db7-8af4-2429bc246488	GET	undefined	/
+
+24:06:2025	23:01:37	ddbcc3ff-fd44-491c-9726-91578f22c743	GET	undefined	/register
+
+24:06:2025	23:01:46	ffaf3303-49e2-4d4a-9ab0-d96d299dc138	PUT	undefined	/register
+
+24:06:2025	23:01:51	25eafa34-9ca1-446c-a51d-3f427e442547	POST	undefined	/register
+
+24:06:2025	23:01:59	d733b8ea-b437-4584-afaf-6f512c5e6f92	POST	undefined	/register
+
+24:06:2025	23:02:17	6c8d8517-b6b8-43e4-8864-3266564eb94f	GET	undefined	/api/employee
+
+24:06:2025	23:02:28	1f38b290-486e-4805-8958-23de1516bc50	GET	undefined	/api/employee
+
+24:06:2025	23:03:14	99759c19-1bf8-4fa2-9040-f14137a1114e	GET	undefined	/api/employee
+
+24:06:2025	23:03:36	cd59a211-3c4a-4a83-a8e0-626e96f3a399	GET	undefined	/api/employee
+
+24:06:2025	23:03:44	c7ab498e-fa82-44f5-9577-525459f1a9b4	POST	undefined	/api/employee
+
+24:06:2025	23:09:41	d5b2683c-fe77-44f1-894f-63068dc0cecb	POST	undefined	/register
+
+24:06:2025	23:16:01	a83ccd0d-de1e-40a2-82f3-f2916849a775	POST	undefined	/register
+
+24:06:2025	23:17:20	de58c9de-8638-4eb4-b53f-5c15e49f0618	POST	undefined	/register
+
+24:06:2025	23:17:33	63f2b68a-d308-4052-83f0-3c9715a1a88d	POST	undefined	/auth
+
+24:06:2025	23:17:53	8f07219b-2358-4b33-ac60-290cde64c8bb	POST	undefined	/auth
+
+24:06:2025	23:18:27	7b860776-8137-4465-81a2-93cff91ff944	GET	undefined	/auth
+
+24:06:2025	23:18:56	a4e85126-f4d1-4384-bb25-f9a1b741db23	POST	undefined	/register
+
+24:06:2025	23:19:11	cac8f257-039e-4f5a-a425-0947637bd622	POST	undefined	/auth
+
+24:06:2025	23:19:24	830fb300-6bae-440e-8a09-f7c815bcd3df	POST	undefined	/auth
+
+24:06:2025	23:23:56	6fe3f637-e654-44e4-928a-e8ad81c2786d	POST	undefined	/api/employee
+
+24:06:2025	23:24:02	222c59b9-8e4b-416b-87a2-327a8a7daa66	GET	undefined	/api/employee
+
+24:06:2025	23:24:19	eedb6e14-563e-4cc1-8a14-a87470b6e072	GET	undefined	/auth
+
+24:06:2025	23:24:29	a99e3d7b-081f-44b9-b6d9-575d68c04c74	POST	undefined	/auth
+
+24:06:2025	23:24:57	f738c895-111e-4d62-be39-c6f691e2fc50	GET	undefined	/api/employee
+
+24:06:2025	23:25:46	7ec42cc5-0d70-4149-b858-de00d80c1472	DELETE	undefined	/api/employee
+
+24:06:2025	23:26:23	bf9ea6a7-e244-4980-beb4-68e0241a6352	GET	undefined	/api/employee
+
+24:06:2025	23:26:46	b910209e-6c0f-47f9-bcc3-86875d69f788	GET	undefined	/api/employee/2
+
+24:06:2025	23:27:17	1d11a553-f376-4535-8844-5348f711014d	GET	undefined	/api/employee
+
+24:06:2025	23:27:35	7ad9f8af-780d-4820-8e93-e89fa369a7cc	GET	undefined	/api/employee
+
+24:06:2025	23:27:38	53b2d9b9-b85b-45df-9324-090fe7c4c45f	GET	undefined	/api/employee
+
+24:06:2025	23:27:45	1d033784-7809-4e2f-9920-e2ca9f649259	GET	undefined	/
+
+24:06:2025	23:27:52	225be82b-6722-402a-b8a1-7b96872e4f6a	GET	undefined	/
+
+24:06:2025	23:27:59	840decd6-fa1a-4cf5-9286-b01e8f4e37eb	GET	undefined	/api/employee
+
+24:06:2025	23:28:04	49b9718f-e2b8-4e4d-8d7a-0a7c8ff11cb7	GET	undefined	/
+
+24:06:2025	23:28:14	88267b12-9c2f-464f-9523-fb76f1e8cb5c	GET	undefined	/refresh
+
+24:06:2025	23:28:49	aec3c96c-81a3-43e1-a6fc-53d2dff3bf94	GET	undefined	/api/employee
+
+24:06:2025	23:29:29	31608d1d-2f3b-4328-8987-ef4c787caa20	GET	undefined	/register
+
+24:06:2025	23:29:36	566492ca-53cf-4d99-bf72-8038e48c37b3	POST	undefined	/register
+
+24:06:2025	23:30:58	41fdbb49-61b2-4e13-b2a6-58e70ce2cb5e	POST	undefined	/register
+
+24:06:2025	23:31:14	5ababbe9-bde9-4333-b2df-0dff3fe2ea9e	POST	undefined	/auth
+
+24:06:2025	23:33:17	3b3bfcab-c88c-4fad-b434-3d63b2427e3b	POST	undefined	/register
+
+24:06:2025	23:33:31	17ed2d0e-36bc-4edc-b28d-23c279f8d6f9	POST	undefined	/auth
+
+24:06:2025	23:33:47	5dccbef6-b3be-4b97-a5fb-003c048e2740	POST	undefined	/auth
+

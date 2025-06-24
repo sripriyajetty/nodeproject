@@ -1,1 +1,29 @@
-[{"username":"sago admin","password":"$2b$10$kI3O2YhNdxnI7L3FSixVCOBiZjljowDI3Hu.ZZlTUUIY7f6pMCXvW","roles":{"Admin":5150,"Editor":1984,"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhZ28gYWRtaW4iLCJpYXQiOjE3NTA3NDU0NjUsImV4cCI6MTc1MDgzMTg2NX0.6DtJNbMi8pHRKJgk4gbb-Tw7NzSwrotahisWpWU9kJA"},{"username":"sago editor","password":"$2b$10$9aCqoQUDQFUTE7XA46nKVOq7SCaQrw94i337S6pXT1RDJujM496Pu","roles":{"Editor":1984,"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhZ28gZWRpdG9yIiwiaWF0IjoxNzUwNzQ1MzM4LCJleHAiOjE3NTA4MzE3Mzh9.r_qglXBKFjC35IUPUZ4h6JCCjbGd2Wn0IeusjHXBSCU"},{"username":"kesava user","password":"$2b$10$KVu4MpBgE/QYt7NYWSeKqePwJlgZVplxRGfWLu6e6uFcLnIhHM3hK","roles":{"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Imtlc2F2YSB1c2VyIiwiaWF0IjoxNzUwNzQ3MTI3LCJleHAiOjE3NTA4MzM1Mjd9.NFB5TuAhqtnZMDO8LaXSUMRUSlYeaEZkhynpzcKJNrM"},{"username":"sago user","password":"$2b$10$Sxow2m/5uxDWqzomBKvHcuIQ1rXvRqAbNN8Zh8PnuwOjRq1kOsmcO","roles":{"User":2001},"refreshToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InNhZ28gdXNlciIsImlhdCI6MTc1MDc1NDc3OSwiZXhwIjoxNzUwODQxMTc5fQ.tzeW0_bOuKBtbByoac4i-Oc6rUI-g5PYiLP2AbmuGbg"}]
+[
+    {
+        "username": "priya admin",
+        "password": "$2b$10$mdO6f43FfxN5vtXUVCazJOXrKIJLzbWpBHJ8zwQrN0dZFkRZJz5am",
+        "roles": {
+            "User": 2001,
+            "Admin": 5150,
+            "Editor": 1984
+        },
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InByaXlhIGFkbWluIiwiaWF0IjoxNzUwNzg3NjY5LCJleHAiOjE3NTA4NzQwNjl9.EdWdFectM3KjoA4G8EA2sEkyv0FDHUS5OuN_To9cKLY"
+    },
+    {
+        "username": "amrutha editor",
+        "password": "$2b$10$NLIF4GP/53RXJnq7kNN/6.B5etNtp0CzdgJHOqG2ybOQH2iwag.QS",
+        "roles": {
+            "User": 2001,
+            "Editor": 1984
+        },
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFtcnV0aGEgZWRpdG9yIiwiaWF0IjoxNzUwNzg4MDc0LCJleHAiOjE3NTA4NzQ0NzR9.ToAR4ofqMA_QAR5KiwVrolc-YU7NuHf8_6-4_sVUXD4"
+    },
+    {
+        "username": "amrutha user",
+        "password": "$2b$10$sMC8aXFdTAy.H31yB9fwIuKZn8ylb30ijXz.OFviq4EWAzbQV1zSe",
+        "roles": {
+            "User": 2001
+        },
+        "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImFtcnV0aGEgdXNlciIsImlhdCI6MTc1MDc4ODIyNywiZXhwIjoxNzUwODc0NjI3fQ.zOHHEWGdcJNpXZWM6lbbrN7Ltm-AfF6D9mxTk5gz_yk"
+    }
+]

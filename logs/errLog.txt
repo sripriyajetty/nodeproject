@@ -1,2 +1,22 @@
 24:06:2025	17:47:09	6a1e7193-6d97-4e13-86d3-157a4f7ab318	TypeError:Cannot read properties of undefined (reading 'split')
 
+24:06:2025	22:29:02	aa93d1a8-550a-456d-aaa7-b0bf91bf898d	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+
+24:06:2025	22:29:24	04e9db99-cf81-4672-b49a-e2a203abae3f	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+
+24:06:2025	22:38:30	84be34eb-e10d-4601-8364-1287931f5322	TypeError:Cannot read properties of undefined (reading 'split')
+
+24:06:2025	22:41:31	08888deb-4386-4559-ae44-cfb2b50f6d9d	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+
+24:06:2025	23:01:51	71f721a3-ea97-4cc4-ba97-412f92efa4d1	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+
+24:06:2025	23:01:59	76071c44-66f4-470e-9e40-f50feefc7c02	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+
+24:06:2025	23:02:17	2ffa8b7e-c1a5-4281-b299-642e4ea28263	TypeError:Cannot read properties of undefined (reading 'split')
+
+24:06:2025	23:09:41	5d084e6f-937c-4337-a535-6462abb4dce8	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+
+24:06:2025	23:16:01	23de8684-6bcb-43e2-bb2c-d0f938ea3f0c	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+
+24:06:2025	23:29:36	bd156a0c-395a-4198-be15-4ccb0e9a76d7	TypeError:Cannot destructure property 'username' of 'req.body' as it is undefined.
+

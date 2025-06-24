@@ -1,5 +1,5 @@
 const usersDB = {
-    users: require('../../data/users.json'),
+    users: require('../nodeproject/data/users.json'),
     setUsers: function (data) {this.users = data}
 };
 const fsPromises = require('fs').promises;
@@ -20,7 +20,8 @@ const handleNewUser = async(req,res)=>{
         usersDB.setUsers([...usersDB.users,newUser])
         console.log(newUser)
         await fsPromises.writeFile(path.join(__dirname,'..','data','users.json'),
-        JSON.stringify(usersDB.users))
+        JSON.stringify(usersDB.users, null, 2)
+)
         res.status(201).json({"message":`new user is created`})
     }catch(error){
         res.status(500).json({"message":error.message})
