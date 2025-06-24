@@ -1,0 +1,100 @@
+2025-06-24	14:35:14	40d6797e-c0a4-463c-91ff-8621685f57a1	 /new-page.html	GET
+
+2025-06-24	14:35:14	dc8b4d7b-5c2d-489c-bffb-e8c101d9f167	 /css/style.css	GET
+
+2025-06-24	14:35:14	5d45d283-6f48-49a6-a67f-338d88efd6b6	 /img/img1.jpg	GET
+
+2025-06-24	14:35:31	c236ba7d-19a9-41bc-9cbf-3f63e860b133	 /new-page.	GET
+
+2025-06-24	14:35:31	8d953b29-65c6-45c9-a307-8926da7ea8c0	 /css/style.css	GET
+
+2025-06-24	14:35:34	2cb06ceb-6905-4f65-841e-a564885df419	 /new-page.	GET
+
+2025-06-24	14:35:34	2abcbe9b-211a-41c1-9a0e-8de9395ebe90	 /css/style.css	GET
+
+2025-06-24	14:36:51	5662c5d1-c928-4ad7-8005-00989580e1f2	 /	GET
+
+2025-06-24	14:36:51	030d0100-b3e7-494c-aec0-1b3937b13da6	 /css/style.css	GET
+
+2025-06-24	14:37:46	2702a4b9-5e3e-426d-b48f-366fefd36839	 /	GET
+
+2025-06-24	14:37:46	eeec6e16-699d-4bb2-8b15-2b8e7c256063	 /css/style.css	GET
+
+2025-06-24	14:37:52	5dc2db4a-63e2-4481-9262-0cd94a694540	 /	GET
+
+2025-06-24	14:37:52	db165ebf-1d86-437d-aa64-64c65a1fd1f0	 /css/style.css	GET
+
+2025-06-24	14:38:28	2768b50b-7503-4f07-a92b-5c5222623b6e	 /new-page.html	GET
+
+2025-06-24	14:38:28	d6f9049a-f0f7-4c8c-ac14-fb46a041ad0c	 /css/style.css	GET
+
+2025-06-24	14:38:28	ff32f221-f8ff-4458-b73f-f279b0f0b4cf	 /img/img1.jpg	GET
+
+2025-06-24	14:38:40	6f028005-2666-4e2d-9782-498551178f30	 /new-page.htm	GET
+
+2025-06-24	14:38:40	b88c16ee-e547-4d8d-83f8-2e086e3ac5d3	 /css/style.css	GET
+
+24:06:2025	17:08:38	867c93f1-ce80-4862-b009-544c71781bcb	GET	undefined	/
+
+24:06:2025	17:08:38	469cb899-087b-4d60-bd75-72503d1680ec	GET	undefined	/public/css/style.css
+
+24:06:2025	17:08:42	d870690e-5685-483d-897a-19eafdadf894	GET	undefined	/
+
+24:06:2025	17:08:42	8aec28f3-80ee-4a0b-abe7-77eae960f03d	GET	undefined	/public/css/style.css
+
+24:06:2025	17:27:37	bcccf02d-78d1-463f-bc7d-e70b226d99e0	GET	undefined	/
+
+24:06:2025	17:27:37	90ea8527-b503-4648-b1e8-8359e85679d7	GET	undefined	/public/css/style.css
+
+24:06:2025	17:27:40	5089a486-11ae-4e56-b884-6f9ad94d74ab	GET	undefined	/
+
+24:06:2025	17:27:40	2dcd085e-178f-40a0-b0de-db2cedf7ec8e	GET	undefined	/public/css/style.css
+
+24:06:2025	17:47:09	689be59b-ab7f-457f-aee1-941ea2212e73	GET	undefined	/api/employee
+
+24:06:2025	17:47:58	18db2253-30cc-4ab1-ba87-1f0773b89aab	GET	undefined	/api/employees
+
+24:06:2025	18:03:25	a7721c90-b5c1-4356-8a6f-26a765453cc6	GET	undefined	/register
+
+24:06:2025	18:04:47	620f1319-268d-4b29-85d0-0903a30e81ba	GET	undefined	/register
+
+24:06:2025	18:04:51	83b1fed1-b966-4e56-938e-2962332773bd	GET	undefined	/register
+
+24:06:2025	18:07:57	dee55f6a-ca3e-46e9-af77-d0e30038a831	GET	undefined	/register
+
+24:06:2025	18:09:50	c86858db-a2c3-4b20-a0a3-569413275146	GET	undefined	/register
+
+24:06:2025	18:15:10	3f8d8964-1472-4465-b7bd-bc4aad488787	GET	undefined	/register
+
+24:06:2025	18:15:19	7f2ba0a4-f1d9-4bbd-a624-331c1b23cddd	GET	undefined	/register
+
+24:06:2025	18:15:29	56df1bb8-ce3c-493b-a551-8995007ccef3	GET	undefined	/register
+
+24:06:2025	18:15:45	9ba332d2-f15e-4e0d-99ed-0b9a5c293777	GET	undefined	/register
+
+24:06:2025	18:15:51	768f8e3c-85a9-4996-beb6-312a7debaf91	GET	undefined	/register
+
+24:06:2025	18:16:37	8c43e52c-3e64-4399-b78e-a0ed654e50a2	GET	undefined	/register
+
+24:06:2025	18:20:45	a84afec6-f692-441c-b142-4ddfe9c1b8cd	GET	undefined	/api/register
+
+24:06:2025	18:32:36	2492896f-a2cc-4524-9a3d-dfbc9155e990	GET	undefined	/
+
+24:06:2025	18:32:37	faf70143-1322-421c-aa5a-ab4e61603af9	GET	undefined	/public/css/style.css
+
+24:06:2025	18:33:07	df973040-c36a-4e70-8016-2779d3b35d44	GET	undefined	/
+
+24:06:2025	18:33:07	33063098-4bfd-435e-8ac7-7cbf02fcbdf9	GET	undefined	/public/css/style.css
+
+24:06:2025	18:35:13	d7e478e2-fd3f-401a-8312-344630baefd1	GET	undefined	/
+
+24:06:2025	18:35:13	4b8aad03-b8c5-48dc-a6fd-afe14459af1a	GET	undefined	/public/css/style.css
+
+24:06:2025	18:36:51	775c3fe4-a126-4e39-ad34-65b1fb79dcbe	GET	undefined	/
+
+24:06:2025	18:36:51	f87539b4-be9a-4abf-a886-e1a44973bf91	GET	undefined	/public/css/style.css
+
+24:06:2025	18:37:52	91e16669-3aa7-4f9e-8271-89779c050189	GET	undefined	/
+
+24:06:2025	18:39:23	521faac4-94cb-4a9a-b7e1-642392cb15c4	GET	undefined	/new-page.html
+
